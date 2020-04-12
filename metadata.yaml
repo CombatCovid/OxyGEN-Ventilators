@@ -1,0 +1,34 @@
+---
+title: OxyGEN-M
+description: >  
+   OxyGen is an emergency device for the COVID-19 health crisis. 
+   Oxygen is an open hardware prototype that has been collaboratively
+   developed by a group of engineers led by Barcelona based
+   company, PROTOFY.xyz. Initiated in March 2020. 
+   OxyGEN-M is designed for makers and can be built using 
+   common tools and no special machinery or materials are needed. 
+keywords:
+  - covid-19
+  - medical equipment
+  - open hardware
+  - emergency
+  - prototype  
+  - makers 
+project-link: https://www.oxygen.protofy.xyz/
+repository-link: https://github.com/ProtofyTeam/OxyGEN
+made: true
+made-independently: false
+license:
+  hardware: Put the license
+okh-manifest-version: 1.0.0
+date-updated: 2020-03
+manifest-author:
+  name: protofy.xyz
+  affiliation: Barcelona based company : "protofy.xyz"
+contributors:
+  - A name
+  - Another name
+sub-parts:
+  - undefined
+  - undefined
+---
