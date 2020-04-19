@@ -1,45 +1,7 @@
----
-title: Title of the project
-description: > 
-    Put here a description of what the hardware does
-keywords:
-  - covid-19
-  - medical equipment
-project-link: https://e-vent.mit.edu/
-made: true
-made-independently: false
-license:
-  hardware: Put the license
-okh-manifest-version: 1.0.0
-date-updated: yyyy-mm-dd
-manifest-author:
-  name: author
-  affiliation: MIT
-contributors:
-  - A name
-  - Another name
-sub-parts:
-  - undefined
-  - undefined
----
-# Steps to start documenting the equipment/design you found and chose 
-[See this documentation example](https://github.com/CombatCovid/medical-shields-for-3d-printing). You can also download it to see the final result.
-1. Download or clone this template to start documenting easily
-2. Fill in the source files like STLS, CAD, etc inside
+# OxyGEn Ventilator
 
-3. Use this one template to create new designs documentation
-- Inside docs write down a simple README in language of choice.
-- Put in the README.md the reference whre you got the source from to follow up.
-- Write down steps to replicate if necessesary as well as guides in sequence.
-If this part becomes difficult ask for help here in the [`#how-to-document-designs` channel ](https://discord.gg/QrAyWF)
+OxyGEN is a device that automates the process of manual ventilation to patients in emergency situations where not enough ventilators are available.
 
-# Pasos para comenzar a documentar el equipo / diseño que encontró y eligió
-[Vea este ejemplo de documentación](https://github.com/CombatCovid/medical-shields-for-3d-printing). Puede tambien descargar este ejemplo.
-1. Descargue o clone esta plantilla para comenzar a documentar fácilmente
-2. Complete los archivos de origen como STLS, CAD, etc. dentro
+Developed by a group of professionals led by the company [Protofy.xyz](protofy.xyz), with the scientific support of the Hospital Clínic, Hospital Germans Trias i Pujol and the UB of Barcelona.
 
-3. Utilice esta plantilla para crear documentación de nuevos diseños.
-- Los documentos internos escriben un archivo README simple en el idioma de su elección.
-- Ponga en README.md la referencia de donde obtuvo la fuente para hacer el seguimiento.
-- Escriba los pasos para replicar si es necesario, así como las guías en secuencia.
-Si esta parte se vuelve difícil, solicite ayuda aquí en el canal [`# how-to-document-designs`] (https://discord.gg/QrAyWF)
+It has received the approval of the AEMPS (Spanish Agency for Medicines and Health Products) to start its use on patients at all hospitals that adhere to the clinical study.
