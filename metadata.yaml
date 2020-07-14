@@ -2,6 +2,7 @@
 # Comments are expressed with a # preceding the line of text
 # Be as explicit and contextual as possible
 title: OxyGEN Ventilators
+finderPriority: 42 # this one isn't ready yet
 
 # Name of the actual github repository and organization/repository
 name: OxyGEN-Ventilators
