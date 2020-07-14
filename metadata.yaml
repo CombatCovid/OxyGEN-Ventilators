@@ -13,7 +13,7 @@ languages:
   # Document in English
   EN:
     description: One simple design for makers, and one for industrial production.
-		keywords: [ covid-19, medical equipment, emergency, critical care ,intensive care, icu, maker, industrial, prototype, small scale, large scale, emergency room, emt, treatment, hospital, operating room,]
+    keywords: [ covid-19, medical equipment, emergency, critical care ,intensive care, icu, maker, industrial, prototype, small scale, large scale, emergency room, emt, treatment, hospital, operating room,]
 
 # end of app metadata
 
